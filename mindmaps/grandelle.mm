@@ -39,6 +39,41 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1248384486055" ID="ID_1847393031" MODIFIED="1248384520619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      It'll just use conventions for branch
+    </p>
+    <p>
+      names and create links to FishEye
+    </p>
+    <p>
+      EQL statements.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1248384680576" ID="ID_378451345" MODIFIED="1248384709467" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      It'll be great if I could write an application
+    </p>
+    <p>
+      that'll let us cherrypick revisions in CVS
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
