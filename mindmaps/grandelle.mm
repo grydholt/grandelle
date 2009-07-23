@@ -18,9 +18,27 @@
       line
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1248382688513" ID="ID_1528722718" MODIFIED="1248382737810" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Later I'll want to make
+    </p>
+    <p>
+      an application to&#160;adapt
+    </p>
+    <p>
+      to FishEye.
+    </p>
+  </body>
 </html>
 </richcontent>
-</node>
 </node>
 </node>
 </map>
