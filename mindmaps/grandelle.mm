@@ -39,6 +39,25 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1248384486055" ID="ID_1847393031" MODIFIED="1248384520619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      It'll just use conventions for branch
+    </p>
+    <p>
+      names and create links to FishEye
+    </p>
+    <p>
+      EQL statements.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>
